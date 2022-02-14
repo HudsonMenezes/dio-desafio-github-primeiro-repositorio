@@ -1,0 +1,2 @@
+Link para o guia do Markdown: https://www.markdownguide.org/basic-syntax/
+Guia com todas sintaxes para consulta para editar o Markdown caso necessário.
